@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-hello-world",
+  "version": "1.0.0",
+  "description": "hello world nodejs app",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjhulst/nodejs-hello-world.git"
+  },
+  "keywords": [
+    "nodejs",
+    "hello",
+    "world"
+  ],
+  "author": "bjhulst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjhulst/nodejs-hello-world/issues"
+  },
+  "homepage": "https://github.com/bjhulst/nodejs-hello-world#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
